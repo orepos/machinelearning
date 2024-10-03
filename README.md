@@ -19,7 +19,7 @@ Value: Price
 Features: Size:1610, Bedrooms:3, Year Built:2007
 Here a model is created using the features and trained against the price
 
-In Unsupervised, cluster of like data is being analysied to identify groups of data that share the same trait.
+In Unsupervised, cluster of like data is being analyzed to identify groups of data that share the same trait.
 
 
 # Problem
